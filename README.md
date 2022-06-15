@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Sreejith K</h1>
+<h1 align="center">Hi there 👋 I'm Vinayak Goyal</h1>
 <h3 align="center">Software Developer striving for greatness in his work.</h3>
 
 <p><a href="https://twitter.com/ivinayakg" target="_blank"><img src="https://img.shields.io/twitter/follow/ivinayakg?logo=twitter&color=0f56b3&style=for-the-badge&label=Follow" alt="ivinayakg" /></a> </p>
