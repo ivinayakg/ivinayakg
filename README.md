@@ -34,9 +34,9 @@
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="NODEJS" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivinayakg&layout=compact&theme=github-dark)](https://github.com/ivinayakg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivinayakg&layout=compact&theme=github_dark)](https://github.com/ivinayakg/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivinayakg&show_icons=true&&title_color=0f56b3&hide=issues&count_private=true&theme=github-dark" alt="ivinayakg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivinayakg&show_icons=true&&title_color=0f56b3&hide=issues&count_private=true&theme=github_dark" alt="ivinayakg" /></p>
 
 
 [My Resume](https://github.com/ivinayakg/ivinayakg/files/9127243/Resume.17.July.Vinayak.pdf)
