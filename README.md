@@ -36,7 +36,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivinayakg&layout=compact)](https://github.com/ivinayakg/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivinayakg&show_icons=true&&title_color=0f56b3&hide=issues&count_private=true" alt="ivinayakg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivinayakg&show_icons=true&&title_color=0f56b3&hide=issues&count_private=true&theme=github-dark" alt="ivinayakg" /></p>
 
 
 [My Resume](https://github.com/ivinayakg/ivinayakg/files/9127243/Resume.17.July.Vinayak.pdf)
